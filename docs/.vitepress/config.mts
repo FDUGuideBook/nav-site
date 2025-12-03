@@ -10,8 +10,6 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/logo.svg',
-
     nav: nav(),
     sidebar: sidebar(),
 
@@ -46,8 +44,10 @@ export default defineConfig({
   },
 
   head: [
-    ['link', { rel: 'icon', href: '/logo.svg' }],
-    // 使用 @iconify/vue 组件，已在自定义主题中全局注册，无需 CDN
+    ['link', {
+      rel: 'icon',
+      href: 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🫐</text></svg>'
+    }]
   ],
   
   markdown: {

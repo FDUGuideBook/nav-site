@@ -5,9 +5,10 @@ layout: home
 hero:
   name: "FDUGuideBook"
   text: "复旦冒险指南"
+  tagline: "a tagline here"
   image:
-    src: /logo.svg
-    alt: FDUGuideBook
+    src: "/blueberry.svg"
+    alt: "FDUGuideBook"
   actions:
     - theme: brand
       text: 开始

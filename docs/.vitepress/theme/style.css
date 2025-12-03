@@ -19,11 +19,13 @@
     background-color: var(--vp-c-brand-soft);
 }
 
-pre, code {
+pre,
+code {
     font-family: var(--font-monospace);
 }
 
-select, input {
+select,
+input {
     height: 1.8em;
     border-radius: 0.3rem;
     background-color: var(--vp-c-default-soft);
@@ -91,6 +93,15 @@ svg:where(.iconify) {
     opacity: 0;
 }
 
-.tippy-box > .tippy-svg-arrow {
+.tippy-box>.tippy-svg-arrow {
     fill: var(--vp-c-bg-elv);
 }
+
+.VPNavBar a.title::before {
+  content: "🫐";
+  font-size: 1.4em;
+  margin-right: 0.25em;
+  display: inline-block;
+  vertical-align: middle;
+}
+
