@@ -49,7 +49,7 @@ export default defineConfig({
       href: 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🫐</text></svg>'
     }]
   ],
-  
+
   markdown: {
     math: true,
     container: {
@@ -67,6 +67,11 @@ export default defineConfig({
     },
     optimizeDeps: {
       include: ['@iconify/vue']
+    },
+      resolve: {
+			alias: {
+				'@': import.meta.dirname,
+			},
     }
   },
 })
@@ -74,29 +79,26 @@ export default defineConfig({
 function nav() {
   return [
     { text: '首页', link: '/' },
-    { text: '指南', link: '/guide/' },
-    { text: '资源', link: '/resources/' },
+    { text: '学习', link: '/study/' },
     { text: '关于', link: '/about/' },
   ]
 }
 
 function sidebar() {
   return {
-    '/guide/': [
+    '/study/': [
       {
-        text: '指南',
+        text: '学习',
         items: [
-          { text: '开始使用', link: '/guide/getting-started' },
-          { text: '常见问题', link: '/guide/faq' },
+          { text: '学习资料', link: '/study' },
         ]
       }
     ],
-    '/resources/': [
+    '/about/': [
       {
-        text: '资源',
+        text: '关于',
         items: [
-          { text: '学习资源', link: '/resources/learning' },
-          { text: '社区链接', link: '/resources/community' },
+          { text: '社区链接', link: '/about' },
         ]
       }
     ]
