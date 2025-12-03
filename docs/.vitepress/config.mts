@@ -68,10 +68,10 @@ export default defineConfig({
     optimizeDeps: {
       include: ['@iconify/vue']
     },
-      resolve: {
-			alias: {
-				'@': import.meta.dirname,
-			},
+    resolve: {
+      alias: {
+        '@': import.meta.dirname,
+      },
     }
   },
 })
@@ -86,21 +86,19 @@ function nav() {
 
 function sidebar() {
   return {
-    '/study/': [
+    '/': [
       {
         text: '学习',
         items: [
           { text: '学习资料', link: '/study' },
         ]
-      }
-    ],
-    '/about/': [
+      },
       {
         text: '关于',
         items: [
           { text: '关于我们', link: '/about' },
         ]
-      }
-    ]
+      },
+    ],
   }
 }
