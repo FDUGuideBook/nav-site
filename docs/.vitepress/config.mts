@@ -18,8 +18,8 @@ export default defineConfig({
     sidebar: sidebar(),
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
-      { icon: 'qq', link: 'https://twitter.com/vuejs' },
+      { icon: 'github', link: 'https://github.com/FDUGuideBook/nav-site' },
+      // { icon: 'qq', link: 'https://twitter.com/vuejs' },
     ],
 
     search: { provider: 'local' },
