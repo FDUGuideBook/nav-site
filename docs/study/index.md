@@ -32,7 +32,7 @@ guideLinks:
   - text: PCS服务队
     link: https://fdupcs.top/
     icon: https://fdupcs.top/assets/logo.png
-    desc: 复旦计算机类课程自学指南
+    desc: 拯救全校师生的生产力危机
 webLinks:
   - text: Z-library
     link: https://z-library.sk/
