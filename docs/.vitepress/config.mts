@@ -7,7 +7,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: "FDUGuideBook",
   description: "复旦冒险指南 - 导航网站",
-  base: '/FDUGuideBook-NavSite/',
+  base: '/',
   lastUpdated: true,
   cleanUrls: true,
 
