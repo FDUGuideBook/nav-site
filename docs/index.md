@@ -11,15 +11,19 @@ hero:
     alt: "FDUGuideBook"
   actions:
     - theme: brand
-      text: 开始
+      text: 学习资料
       link: /study
     - theme: alt
-      text: 关于我们
-      link: /about
+      text: 常用工具
+      link: /tools
 
 features:
   - title: 学习资料
     icon: 📖
     details: 学习资源，课程资料
     link: /study
+  - title: 常用工具
+    icon: 🛠️
+    details: 空教室、讲座、VPN 等一站式入口
+    link: /tools
 ---

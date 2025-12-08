@@ -1,6 +1,6 @@
 import {
   createHooks
-} from "./chunk-2YAGQQ7S.js";
+} from "./chunk-LZ5A7EIH.js";
 
 // node_modules/@vue/devtools-shared/dist/index.js
 var __create = Object.create;
