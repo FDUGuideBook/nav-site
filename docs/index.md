@@ -22,4 +22,8 @@ features:
     icon: 📖
     details: 学习资源，课程资料
     link: /study
+  - title: 常用工具
+    icon: 🛠️
+    details: 空教室、讲座、VPN 等一站式入口
+    link: /tools
 ---
