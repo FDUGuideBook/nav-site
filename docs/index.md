@@ -11,11 +11,11 @@ hero:
     alt: "FDUGuideBook"
   actions:
     - theme: brand
-      text: 学习资料
+      text: 开始
       link: /study
     - theme: alt
-      text: 常用工具
-      link: /tools
+      text: 关于我们
+      link: /about
 
 features:
   - title: 学习资料
