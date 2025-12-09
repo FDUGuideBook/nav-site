@@ -26,11 +26,17 @@
 
 ## 免责声明
 
-- 本站所有资料仅供学习交流使用
+- 本站所有资料仅供学习交流使用。
 - 本站点的只负责收集、整合资源，不对资源的合法性、准确性、完整性负责。如有不妥之处，请联系我们删除。
 - 收录的所有资源均来自互联网公开渠道，版权归原作者所有。
 - 如有原作者不希望该网站收录，请联系我们删除。
 
 ## 特别感谢
 
+- 所有愿意参与开源的同学。
 - [西邮 Wiki](https://wiki.cooo.site/)、[Ac-Wiki](https://ac-wiki.org/) 为本项目提供重要参考。
+
+## 贡献者
+
+[![Contributors](https://contrib.rocks/image?repo=FDUGuideBook/nav-site)](https://github.com/FDUGuideBook/nav-site/graphs/contributors)
+
