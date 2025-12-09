@@ -18,7 +18,7 @@ links:
     desc: 教务教学相关服务入口
   - text: webVPN
     link: https://webvpn.fudan.edu.cn/login
-    logo: https://fduguidebook.com/icons/webvpn.png
+    icon: https://fduguidebook.com/icons/webvpn.png
     desc: 校外访问校内资源入口
   - text: 3108青年创新平台
     link: https://3108.fudan.edu.cn/index
