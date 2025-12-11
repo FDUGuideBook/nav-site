@@ -24,7 +24,7 @@ features:
     link: /study
   - title: 校内服务
     icon: 🛠️
-    details: 选课，讲座，空教室查询
+    details: 选课，讲座，全校课表查询
     link: /tools
   - title: 社团与社区
     icon: 🧩
