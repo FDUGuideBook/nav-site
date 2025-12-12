@@ -1,4 +1,8 @@
 ---
+prev: false
+next:
+  text: 校内服务
+  link: /tools
 courseLinks:
   - text: FDU Sharing
     link: https://fdu-sharing.vercel.app/

@@ -2,6 +2,12 @@
 # 工具页 frontmatter
 
 # 这里先定义一个简单的链接列表，后续可按需扩展为多组
+prev:
+  text: 学习资料
+  link: /study
+next:
+  text: 社团与社区
+  link: /clubs
 
 links:
   - text: eHall
@@ -25,9 +31,9 @@ links:
     icon: https://fduguidebook.com/icons/3108.png
     desc: 学术科研信息汇总
 innerLinks: 
-  - text: 空教室查询
+  - text: 课表查询
     link: http://10.64.130.6/
-    desc: 查询校内空余教室使用情况
+    desc: 查询全校日期-教室-课程对应情况（包括调课，教室借用）
   - text: 正版软件
     link: https://zb.fudan.edu.cn/index.html
     icon: https://fduguidebook.com/icons/fudan-blue.png
@@ -45,3 +51,6 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 > 以下站点需在校园网环境下访问
 
 <LinkList :links="$frontmatter.innerLinks" />
+
+
+

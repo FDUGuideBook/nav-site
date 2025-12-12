@@ -85,6 +85,8 @@ function nav() {
     { text: '首页', link: '/' },
     { text: '学习', link: '/study/' },
     { text: '工具', link: '/tools/' },
+    { text: '社团', link: '/clubs/' },
+    { text: '科研', link: '/research/' },
     { text: '关于', link: '/about/' },
   ]
 }
@@ -102,6 +104,18 @@ function sidebar() {
         text: '工具',
         items: [
           { text: '校内服务', link: '/tools' },
+        ]
+      },
+      {
+        text: '社团',
+        items: [
+          { text: '社团与社区', link: '/clubs' },
+        ]
+      },
+      {
+        text: '科研',
+        items: [
+          { text: '科研资源', link: '/research' },
         ]
       },
       {
