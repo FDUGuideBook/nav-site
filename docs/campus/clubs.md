@@ -6,30 +6,26 @@ next:
   text: 学习资料
   link: /study
 links:
-  - text: 复旦基岩社
+  - text: FDCraft
     link: https://fdcraft.github.io/
-    icon: https://fduguidebook.com/icons/MINECRAFT.jpg
-    desc: 复旦大学 Minecraft 爱好者聚集地
+    icon: https://fdcraft.github.io/logo.svg
+    desc: 复旦大学基岩社
   - text: FDUCSLG
-    link: https://github.com/FDUCSLG
-    icon: https://fduguidebook.com/icons/FDUCSLG.png
-    desc: 一个复旦大学学生驱动的计算机技术社区
-  - text: PCService 志愿者服务队
+    link: https://www.fducslg.com/
+    icon: https://cs101.fducslg.com/assets/fducslg.png
+    desc: 开放原子开源社团
+  - text: PCS服务队
     link: https://fdupcs.top/
-    icon: https://fduguidebook.com/icons/PCService.png
+    icon: https://fdupcs.top/assets/logo.png
     desc: 拯救全校师生的生产力危机
-  - text: FudanCYCRoutes
-    link: https://kyre.gitbook.io/fudancycroutes
-    icon: https://fduguidebook.com/icons/cycle.jpg
-    desc: 复旦大学自行车协会路线库project
 ---
 
 <script setup lang="ts">
 import LinkList from "/.vitepress/components/unique/LinkList.vue";
 </script>
 
-# 社团与社区
+# 社团组织
+
+---
 
 <LinkList :links="$frontmatter.links" />
-
-
