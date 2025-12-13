@@ -27,7 +27,7 @@ links:
 innerLinks: 
   - text: 课表查询
     link: http://10.64.130.6/
-    desc: 查询全校日期-教室-课程对应情况（包括调课，教室借用）
+    desc: 查询全校日期-教室-课程对应情况
   - text: 正版软件
     link: https://zb.fudan.edu.cn/index.html
     icon: https://fduguidebook.com/icons/fudan-blue.png
@@ -40,11 +40,10 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 
 # 校内服务
 
+---
+
 <LinkList :links="$frontmatter.links" />
 
 > 以下站点需在校园网环境下访问
 
 <LinkList :links="$frontmatter.innerLinks" />
-
-
-
