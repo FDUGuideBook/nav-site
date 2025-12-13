@@ -1,8 +1,10 @@
 ---
-prev: false
+prev: 
+  text: 社团组织
+  link: /campus/clubs
 next:
-  text: 校内服务
-  link: /tools
+  text: 科研资源
+  link: /study/research
 courseLinks:
   - text: FDU Sharing
     link: https://fdu-sharing.vercel.app/

@@ -2,12 +2,10 @@
 # 工具页 frontmatter
 
 # 这里先定义一个简单的链接列表，后续可按需扩展为多组
-prev:
-  text: 学习资料
-  link: /study
+prev: false
 next:
-  text: 社团与社区
-  link: /clubs
+  text: 社团组织
+  link: /campus/clubs
 
 links:
   - text: eHall

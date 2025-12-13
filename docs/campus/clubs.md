@@ -1,10 +1,10 @@
 ---
 prev:
   text: 校内服务
-  link: /tools
+  link: /campus
 next:
-  text: 科研资源
-  link: /research
+  text: 学习资料
+  link: /study
 links:
   - text: 复旦基岩社
     link: https://fdcraft.github.io/

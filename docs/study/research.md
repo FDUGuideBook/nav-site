@@ -1,7 +1,7 @@
 ---
 prev:
-  text: 社团与社区
-  link: /clubs
+  text: 学习资料
+  link: /study
 next: false
 links:
   - text: 复旦 CS 相关 Lab
