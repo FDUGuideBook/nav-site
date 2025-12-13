@@ -24,10 +24,6 @@ links:
     link: https://webvpn.fudan.edu.cn/login
     icon: https://fduguidebook.com/icons/webvpn.png
     desc: 校外访问校内资源入口
-  - text: 3108青年创新平台
-    link: https://3108.fudan.edu.cn/index
-    icon: https://fduguidebook.com/icons/3108.png
-    desc: 学术科研信息汇总
 innerLinks: 
   - text: 课表查询
     link: http://10.64.130.6/
