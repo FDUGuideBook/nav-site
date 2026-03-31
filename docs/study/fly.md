@@ -23,3 +23,8 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 ---
 
 <LinkList :links="$frontmatter.links" />
+
+## 搜索索引
+
+- FDU-Hotpot：复旦留学申请数据开源
+- 复旦大学就业信息网：复旦大学就业信息网
