@@ -75,3 +75,18 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 ## 网络资源
 
 <LinkList :links="$frontmatter.webLinks" />
+
+## 搜索索引
+
+- FDU Sharing：复旦课程资料开放平台
+- fudan 开放题库：复旦课程资料开放平台
+- Awesome-Fudan：复旦课程相关代码仓库
+- 大数据笔记分享：from Snivallus
+- 大数据笔记分享：from ForeverHaibara
+- 香蕉空间：中文数学社区
+- FDU CS自学指南：复旦计算机类课程自学指南
+- CS101：复旦大学计算机入门指南
+- PCS服务队：计算机相关问题解决指南
+- Z-library：世界上最大的电子图书馆
+- Anna's Archive：人类历史上最大的开源图书馆
+- 中国大学 MOOC：在线课程学习平台

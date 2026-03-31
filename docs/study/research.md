@@ -25,3 +25,8 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 ---
 
 <LinkList :links="$frontmatter.links" />
+
+## 搜索索引
+
+- Fudan CS Labs：复旦 CS 相关实验室导航
+- 3108青年创新平台：学术科研信息汇总

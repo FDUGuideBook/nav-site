@@ -29,3 +29,9 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 ---
 
 <LinkList :links="$frontmatter.links" />
+
+## 搜索索引
+
+- FDCraft：复旦大学基岩社
+- FDUCSLG：开放原子开源社团
+- PCS服务队：拯救全校师生的生产力危机

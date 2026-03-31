@@ -96,3 +96,10 @@ svg:where(.iconify) {
 .tippy-box>.tippy-svg-arrow {
     fill: var(--vp-c-bg-elv);
 }
+
+/* Keep index-only markdown in page source for local search while hiding it in UI. */
+.vp-doc h2#搜索索引,
+.vp-doc h2#搜索索引~ul,
+.vp-doc h2#搜索索引~p {
+    display: none;
+}
