@@ -96,6 +96,7 @@ function sidebar() {
         text: '校园',
         items: [
           { text: '校内服务', link: '/campus' },
+          { text: '新生入门', link: '/campus/freshman' },
           { text: '社团组织', link: '/campus/clubs' },
         ]
       },
