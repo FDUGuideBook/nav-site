@@ -4,8 +4,8 @@
 # 这里先定义一个简单的链接列表，后续可按需扩展为多组
 prev: false
 next:
-  text: 社团组织
-  link: /campus/clubs
+  text: 新生入门
+  link: /campus/freshman
 
 links:
   - text: eHall
@@ -44,8 +44,8 @@ links:
     link: https://docs.qq.com/sheet/DR0RSUWxTd0tGTE1q?tab=22tuz7
     icon: https://fduguidebook.com/icons/qqdoc.jpg
     desc: 复旦新生，请查收这份最全新生攻略！
-  - text: 复旦大学请假条，ppt模板
-    link: https://github.com/FDUGuideBook/nav-site/tree/main/docs/public/files/templates
+  - text: 复旦大学ppt模板
+    link: https://github.com/JinnyWong/FudanPPT
     icon: https://fduguidebook.com/icons/Github-Dark.svg
     desc: 一些你或许没有的模板
 innerLinks: 
@@ -86,7 +86,7 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 - 体育管理综合查询系统：成绩、刷段情况查询，理论考试
 - 缴费平台：缴纳学费、住宿费、医保等
 - 2025复旦大学新生攻略手册：复旦新生，请查收这份最全新生攻略！
-- 复旦大学请假条，ppt模板：一些你或许没有的模板
+- 复旦大学ppt模板：一些你或许没有的模板
 - 课表查询：查询全校日期-教室-课程对应情况
 - 考试座位表查询：暗中观察所有同学的考试
 - 正版软件：学校提供的正版软件获取与使用说明
