@@ -43,6 +43,10 @@ guideLinks:
     link: https://fdupcs.top/guides/
     icon: https://fdupcs.top/assets/logo.png
     desc: 计算机相关问题解决指南
+  - text: ic-guide
+    link: https://crys-chen.github.io/ic-guide/
+    icon: /icons/ic-guide.png
+    desc: '"可上九天揽月，可下五洋捉鳖。"覆盖 17 个前沿科研方向与 200 余门精选课程，集成电路/微电子专业自学指南。'
 webLinks:
   - text: Z-library
     link: https://z-library.sk/
@@ -88,6 +92,7 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 - FDU CS自学指南：复旦计算机类课程自学指南
 - CS101：复旦大学计算机入门指南
 - PCS服务队：计算机相关问题解决指南
+- ic-guide：集成电路/微电子专业自学指南
 - Z-library：世界上最大的电子图书馆
 - Anna's Archive：人类历史上最大的开源图书馆
 - 中国大学 MOOC：在线课程学习平台
