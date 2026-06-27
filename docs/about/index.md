@@ -1,6 +1,8 @@
 ---
 prev: false
-next: false
+next:
+  text: 复旦开源倡议
+  link: /initiative
 ---
 # 写在前面
 

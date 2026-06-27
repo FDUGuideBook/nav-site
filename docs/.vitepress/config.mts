@@ -86,6 +86,7 @@ function nav() {
     { text: '校园', link: '/campus/' },
     { text: '学习', link: '/study/' },
     { text: '关于', link: '/about/' },
+    { text: '倡议', link: '/initiative/' },
   ]
 }
 
@@ -112,6 +113,12 @@ function sidebar() {
         text: '关于',
         items: [
           { text: '关于我们', link: '/about' },
+        ]
+      },
+      {
+        text: '倡议',
+        items: [
+          { text: '复旦开源倡议', link: '/initiative' },
         ]
       },
     ],
