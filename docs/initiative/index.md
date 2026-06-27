@@ -6,7 +6,7 @@ next: false
 links:
   - text: 复旦开源倡议
     link: https://github.com/Chi-Shan0707/fdu-opensource-initiative
-    icon: https://fduguidebook.com/icons/Github-Dark.svg
+    icon: simple-icons:github
     desc: 倡议发起仓库，含完整规范
 ---
 
