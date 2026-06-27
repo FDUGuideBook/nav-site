@@ -45,8 +45,8 @@ guideLinks:
     desc: 计算机相关问题解决指南
   - text: ic-guide
     link: https://crys-chen.github.io/ic-guide/
-    icon: /icons/ic-guide.png
-    desc: '"可上九天揽月，可下五洋捉鳖。"覆盖 17 个前沿科研方向与 200 余门精选课程，集成电路/微电子专业自学指南。'
+    icon: https://fduguidebook.com/icons/ic-guide.png
+    desc: 集成电路/微电子专业自学指南
 webLinks:
   - text: Z-library
     link: https://z-library.sk/
