@@ -18,7 +18,7 @@ hero:
       link: /about
 
 features:
-  - title: 学习资料
+  - title: 学习指南
     icon: 📖
     details: 学习资源，课程资料
     link: /study

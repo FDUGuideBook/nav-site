@@ -1,7 +1,7 @@
 ---
 prev: 
-  text: 社团组织
-  link: /campus/clubs
+  text: 学生工作
+  link: /campus/studentwork
 next:
   text: 科研资源
   link: /study/research
@@ -66,7 +66,7 @@ webLinks:
 import LinkList from "/.vitepress/components/unique/LinkList.vue";
 </script>
 
-# 学习资料
+# 学习指南
 
 ## 课程资料
 

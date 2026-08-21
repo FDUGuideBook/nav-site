@@ -99,14 +99,18 @@ function sidebar() {
           { text: '校内服务', link: '/campus' },
           { text: '新生入门', link: '/campus/freshman' },
           { text: '社团组织', link: '/campus/clubs' },
+          { text: '入党', link: '/campus/party' },
+          { text: '入伍', link: '/campus/military' },
+          { text: '学生工作', link: '/campus/studentwork' },
         ]
       },
       {
         text: '学习',
         items: [
-          { text: '学习资料', link: '/study' },
+          { text: '学习指南', link: '/study' },
           { text: '科研资源', link: '/study/research' },
           { text: '飞跃手册', link: '/study/fly' },
+          { text: '竞赛名录', link: '/study/competitions' },
         ]
       },
       {

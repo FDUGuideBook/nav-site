@@ -1,6 +1,6 @@
 ---
 prev:
-  text: 学习资料
+  text: 学习指南
   link: /study
 next:
   text: 飞跃手册

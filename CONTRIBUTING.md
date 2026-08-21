@@ -61,8 +61,8 @@ git checkout -b update-xxx     # 更新信息
 
 内容以 Markdown 编写，位于 `docs/` 目录下。主要板块：
 
-- `docs/campus/` — 校园相关（校内服务、新生入门、社团组织）
-- `docs/study/` — 学习相关（学习资料、科研资源、飞跃手册）
+- `docs/campus/` — 校园相关（校内服务、新生入门、社团组织、入党、入伍、学生工作）
+- `docs/study/` — 学习相关（学习指南、科研资源、飞跃手册、竞赛名录）
 - `docs/about/` — 关于本项目
 
 图标等静态资源放在 `docs/public/`（其中 `docs/public/icons/` 存放站点图标）。
