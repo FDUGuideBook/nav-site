@@ -24,7 +24,7 @@ withDefaults(defineProps<LinkProps>(), {
 <template>
 <component
 	:is="link ? 'a' : 'span'"
-	class="link"
+	class="link no-icon"
 	:class="{ card }"
 	:href="link"
 	:target="isExtLink(link) ? '_blank' : undefined"
@@ -71,10 +71,6 @@ withDefaults(defineProps<LinkProps>(), {
 	background-color: var(--vp-c-bg-soft);
 	color: inherit;
 	transition: all 0.2s;
-}
-
-.link.card.card.card::after {
-	content: unset;
 }
 
 a.link.card:hover {
