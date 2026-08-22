@@ -86,7 +86,7 @@ svg:where(.iconify) {
     background-color: var(--vp-c-bg-elv);
     font-size: 0.8rem;
     line-height: 1.4;
-    color: var(--c-text-2);
+    color: var(--vp-c-text-2);
 }
 
 .tippy-box[data-state="hidden"] {
