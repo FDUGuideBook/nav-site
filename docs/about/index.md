@@ -28,7 +28,7 @@ next:
 
 项目正在发展中，欢迎添加微信（alumls）投稿/提出建议。
 
-对于熟悉 GitHub 工作流程的同学，也可以直接提交 Pull Request / Issue. 详细流程请参阅 [CONTRIBUTING.md](https://github.com/FDUGuideBook/nav-site/blob/main/CONTRIBUTING.md)。
+对于熟悉 GitHub 工作流程的同学，也可以直接提交 Pull Request / Issue。详细流程请参阅 [CONTRIBUTING.md](https://github.com/FDUGuideBook/nav-site/blob/main/CONTRIBUTING.md)。
 
 ### 贡献者
 
@@ -38,8 +38,8 @@ next:
 
 ## 免责声明
 
-- 本站所有资料仅供学习交流使用
-- 本站点的只负责收集、整合资源，不对资源的合法性、准确性、完整性负责。如有不妥之处，请联系我们删除。
+- 本站所有资料仅供学习交流使用。
+- 本站点只负责收集、整合资源，不对资源的合法性、准确性、完整性负责。如有不妥之处，请联系我们删除。
 - 收录的所有资源均来自互联网公开渠道，版权归原作者所有。
 - 如有原作者不希望该网站收录，请联系我们删除。
 

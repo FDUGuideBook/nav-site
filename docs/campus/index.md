@@ -40,14 +40,14 @@ links:
     link: https://cwgl.fudan.edu.cn/payment/
     icon: https://fduguidebook.com/icons/fudan-blue.png
     desc: 缴纳学费、住宿费、医保等
-  - text: 复旦大学ppt模板
+  - text: 复旦大学 PPT 模板
     link: https://github.com/JinnyWong/FudanPPT
     icon: https://fduguidebook.com/icons/Github-Dark.svg
     desc: 一些你或许没有的模板
 innerLinks: 
   - text: 课表查询
     link: http://10.64.130.6/
-    desc: 查询全校日期-教室-课程对应情况
+    desc: 查询全校各教室的课程安排
   - text: 考试座位表查询
     link: http://10.64.130.6/exam.asp
     desc: 暗中观察所有同学的考试
@@ -62,8 +62,6 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 </script>
 
 # 校内服务
-
----
 
 <LinkList :links="$frontmatter.links" />
 
@@ -81,7 +79,7 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 - 选课系统（本科）：选课事务
 - 体育管理综合查询系统：成绩、刷段情况查询，理论考试
 - 缴费平台：缴纳学费、住宿费、医保等
-- 复旦大学ppt模板：一些你或许没有的模板
-- 课表查询：查询全校日期-教室-课程对应情况
+- 复旦大学 PPT 模板：一些你或许没有的模板
+- 课表查询：查询全校各教室的课程安排
 - 考试座位表查询：暗中观察所有同学的考试
 - 正版软件：学校提供的正版软件获取与使用说明

@@ -10,7 +10,7 @@ links:
     link: https://meredith2328.github.io/freshdan/#/
     icon: https://fduguidebook.com/icons/fudan-blue.png
     desc: 复旦新生一站式信息平台
-  - text: 2025复旦大学新生攻略手册
+  - text: 2025 复旦大学新生攻略手册
     link: https://docs.qq.com/sheet/DR0RSUWxTd0tGTE1q?tab=22tuz7
     icon: https://fduguidebook.com/icons/qqdoc.jpg
     desc: 复旦新生，请查收这份最全新生攻略！
@@ -46,11 +46,11 @@ lifeLinks:
     icon: https://fduguidebook.com/icons/fudan-blue.png
     desc: 食堂、报修、洗衣、校车、住房等医食住行一本全
 netLinks:
-  - text: UIS统一身份认证
+  - text: UIS 统一身份认证
     link: https://uis.fudan.edu.cn/authserver/index.do
     icon: https://fduguidebook.com/icons/fudan-blue.png
     desc: 登录校内各平台/网站通用的统一账号
-  - text: VPN服务（EasyConnect）
+  - text: VPN 服务（EasyConnect）
     link: https://icampus.fudan.edu.cn/wwwfw_33126/list.htm
     icon: https://fduguidebook.com/icons/webvpn.png
     desc: 校外访问校园网资源的教程
@@ -66,8 +66,6 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 </script>
 
 # 新生入门
-
----
 
 <LinkList :links="$frontmatter.links" />
 
@@ -113,11 +111,11 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 ## 搜索索引
 
 - Freshdan：复旦新生一站式信息平台
-- 2025复旦大学新生攻略手册：复旦新生，请查收这份最全新生攻略！
+- 2025 复旦大学新生攻略手册：复旦新生，请查收这份最全新生攻略！
 - 复旦大学校园地图：比导航软件更详细、全面的复旦地图
 - 邯郸/枫林/江湾/张江校区地图 PDF：复旦大学基本建设处提供
 - 旦挞：树洞、评教、课表、成绩、空教室等信息集成的校园助手
 - 复旦师生后勤服务指南：食堂、报修、洗衣、校车、住房等医食住行一本全
-- UIS统一身份认证：登录校内各平台/网站通用的统一账号
-- VPN服务（EasyConnect）：校外访问校园网资源的教程
+- UIS 统一身份认证：登录校内各平台/网站通用的统一账号
+- VPN 服务（EasyConnect）：校外访问校园网资源的教程
 - 学生资助管理：助学金、勤工俭学、学费减免、助学贷款等资助政策

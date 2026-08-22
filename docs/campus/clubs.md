@@ -14,7 +14,7 @@ links:
     link: https://www.fducslg.com/
     icon: https://cs101.fducslg.com/assets/fducslg.png
     desc: 开放原子开源社团
-  - text: PCS服务队
+  - text: PCS 服务队
     link: https://fdupcs.top/
     icon: https://fdupcs.top/assets/logo.png
     desc: 拯救全校师生的生产力危机
@@ -30,8 +30,6 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 </script>
 
 # 社团组织
-
----
 
 <LinkList :links="$frontmatter.links" />
 
@@ -57,5 +55,5 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 
 - FDCraft：复旦大学基岩社
 - FDUCSLG：开放原子开源社团
-- PCS服务队：拯救全校师生的生产力危机
+- PCS 服务队：拯救全校师生的生产力危机
 - 复旦社团清单：按 tag 检索全校社团，文档开放编辑

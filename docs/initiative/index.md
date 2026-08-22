@@ -53,5 +53,5 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 ## 搜索索引
 
 - 复旦开源倡议：鼓励复旦学子将课程项目与文档开源，形成可搜索、可复用的学术资源生态
-- 仓库命名规范：课程类 fdu-course-<课程英文名>-<学期>，项目类 fdu-project-<项目名>
+- 仓库命名规范：课程类 `fdu-course-<课程英文名>-<学期>`，项目类 `fdu-project-<项目名>`
 - 如何参与：按规范命名仓库，添加对应 topic（fdu-courses / fdu-projects）

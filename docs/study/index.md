@@ -13,7 +13,7 @@ courseLinks:
   - text: fudan 开放题库
     link: https://same-smile-119.notion.site/FDU-82b7f0265fc743f7a9bbf32293495b52
     icon: https://fduguidebook.com/icons/memo_color.svg
-    desc: 复旦课程资料开放平台
+    desc: 复旦课程习题开放共享
   - text: Awesome-Fudan
     link: https://github.com/jeekzhang/Awesome-Fudan
     icon: https://fduguidebook.com/icons/Github-Dark.svg
@@ -31,7 +31,7 @@ courseLinks:
     icon: https://images.weserv.nl/?url=www.bananaspace.org/favicon.ico
     desc: 中文数学社区
 guideLinks:
-  - text: FDU CS自学指南
+  - text: FDU CS 自学指南
     link: https://fdu-open-exam.gitbook.io/csdiy
     icon: https://fduguidebook.com/icons/gitbook.svg
     desc: 复旦计算机类课程自学指南
@@ -39,7 +39,7 @@ guideLinks:
     link: https://cs101.fducslg.com/
     icon: https://cs101.fducslg.com/assets/fducslg.png
     desc: 复旦大学计算机入门指南
-  - text: PCS服务队
+  - text: PCS 服务队
     link: https://fdupcs.top/guides/
     icon: https://fdupcs.top/assets/logo.png
     desc: 计算机相关问题解决指南
@@ -84,14 +84,14 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 ## 搜索索引
 
 - FDU Sharing：复旦课程资料开放平台
-- fudan 开放题库：复旦课程资料开放平台
+- fudan 开放题库：复旦课程习题开放共享
 - Awesome-Fudan：复旦课程相关代码仓库
 - 大数据笔记分享：from Snivallus
 - 大数据笔记分享：from ForeverHaibara
 - 香蕉空间：中文数学社区
-- FDU CS自学指南：复旦计算机类课程自学指南
+- FDU CS 自学指南：复旦计算机类课程自学指南
 - CS101：复旦大学计算机入门指南
-- PCS服务队：计算机相关问题解决指南
+- PCS 服务队：计算机相关问题解决指南
 - ic-guide：集成电路/微电子专业自学指南
 - Z-library：世界上最大的电子图书馆
 - Anna's Archive：人类历史上最大的开源图书馆
