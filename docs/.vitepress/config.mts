@@ -33,7 +33,7 @@ export default defineConfig({
     outline: { level: [2, 3], label: '目录' },
     returnToTopLabel: '返回顶部',
     editLink: {
-      pattern: 'https://github.com/FDUGuideBook/nav-site/blob/main/docs/:path',
+      pattern: 'https://github.com/FDUGuideBook/nav-site/edit/main/docs/:path',
       text: '在 GitHub 上编辑',
     },
     lastUpdated: {
