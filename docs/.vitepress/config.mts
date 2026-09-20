@@ -13,7 +13,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: 'blueberries_color.svg',
+    logo: '/blueberries_color.svg',
     nav: nav(),
     sidebar: sidebar(),
 

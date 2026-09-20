@@ -14,6 +14,10 @@ links:
     link: https://docs.qq.com/sheet/DR0RSUWxTd0tGTE1q?tab=22tuz7
     icon: https://fduguidebook.com/icons/qqdoc.jpg
     desc: 复旦新生，请查收这份最全新生攻略！
+  - text: 复旦大学专业填报指南
+    link: https://zhao4yuan.github.io/Fudan/
+    icon: mdi:school-outline
+    desc: 面向志愿填报的专业介绍与就读体验
 mapLinks:
   - text: 复旦大学校园地图
     link: https://zlapp.fudan.edu.cn/site/schoolMap/model
@@ -112,6 +116,7 @@ import LinkList from "/.vitepress/components/unique/LinkList.vue";
 
 - Freshdan：复旦新生一站式信息平台
 - 2025 复旦大学新生攻略手册：复旦新生，请查收这份最全新生攻略！
+- 复旦大学专业填报指南：面向志愿填报的专业介绍与就读体验
 - 复旦大学校园地图：比导航软件更详细、全面的复旦地图
 - 邯郸/枫林/江湾/张江校区地图 PDF：复旦大学基本建设处提供
 - 旦挞：树洞、评教、课表、成绩、空教室等信息集成的校园助手

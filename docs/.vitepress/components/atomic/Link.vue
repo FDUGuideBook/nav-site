@@ -28,6 +28,7 @@ withDefaults(defineProps<LinkProps>(), {
 	:class="{ card }"
 	:href="link"
 	:target="isExtLink(link) ? '_blank' : undefined"
+	:rel="isExtLink(link) ? 'noopener noreferrer' : undefined"
 >
 	<!-- loading="lazy" 有概率不加载图片 -->
 	<img v-if="icon?.startsWith?.('http')" class="icon" :src="icon" alt="">
